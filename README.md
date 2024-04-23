@@ -1,6 +1,6 @@
 # eurojackpot
 
-This litle app shows the last 20 draws of the eurojackpot
+This little app shows the last 20 draws of the eurojackpot
 
 ## Key Features
 
