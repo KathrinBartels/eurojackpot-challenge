@@ -1,0 +1,3 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`TheResults > renders the component with data 1`] = `"<!--v-if-->"`;
